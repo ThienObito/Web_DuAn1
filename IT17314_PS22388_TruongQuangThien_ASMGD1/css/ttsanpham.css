@@ -1,0 +1,19 @@
+aside{
+    margin: 0 auto;
+    width: 410px;
+    min-height: 700px;
+    background-color: white;
+    float: left;
+    padding: 100px;
+}
+
+article{
+    padding: 100px;
+    width: 1109px;
+    min-height: 800px;
+    background-color: white;
+    float: left;
+
+}
+
+
